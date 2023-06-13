@@ -1,0 +1,8 @@
+Adgoritmo para ingresar al campus EDTecnica:
+
+1- ingresa al portal https://edtecnica.com/
+2- dirigase a la PLATAFORMA EDT
+3- Ingrese su Usuario y Contraseña.
+4- Validar el Usuaria y la Contraseña.
+5- Si no es correcta enviar un msj: Contraseña y Usuaria invalido, colocar correctamente.
+6- Si es correcto darle acceso a la PLATAFORMA EDTECNICA.
