@@ -1,0 +1,5 @@
+Adgoritmo de Diagrama de Flujos de Buscador de ciudades (Venezuela):
+
+1- Crear lista de ciudades en una base de datos.
+2- Ingrese el nombre de la ciudad de Venezuela.
+3- Recibir respuesta
